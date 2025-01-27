@@ -1,0 +1,17 @@
+C:\MVC\FirstGUIProject\FirstGUIProject\bin\Debug\net6.0-windows\FirstGUIProject.exe
+C:\MVC\FirstGUIProject\FirstGUIProject\bin\Debug\net6.0-windows\FirstGUIProject.deps.json
+C:\MVC\FirstGUIProject\FirstGUIProject\bin\Debug\net6.0-windows\FirstGUIProject.runtimeconfig.json
+C:\MVC\FirstGUIProject\FirstGUIProject\bin\Debug\net6.0-windows\FirstGUIProject.dll
+C:\MVC\FirstGUIProject\FirstGUIProject\bin\Debug\net6.0-windows\FirstGUIProject.pdb
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\FirstGUIProject.Form1.resources
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\FirstGUIProject.csproj.GenerateResource.cache
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\FirstGUIProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\FirstGUIProject.AssemblyInfoInputs.cache
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\FirstGUIProject.AssemblyInfo.cs
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\FirstGUIProject.csproj.CoreCompileInputs.cache
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\FirstGUIProject.dll
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\refint\FirstGUIProject.dll
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\FirstGUIProject.pdb
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\FirstGUIProject.genruntimeconfig.cache
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\ref\FirstGUIProject.dll
+C:\MVC\FirstGUIProject\FirstGUIProject\obj\Debug\net6.0-windows\FirstGUIProject.Properties.Resources.resources
